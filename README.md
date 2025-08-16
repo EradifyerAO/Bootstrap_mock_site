@@ -1,3 +1,5 @@
+<a>Bootstrap_mock_site/Home.html</a>
+
 This is a mock site exhibiting html enhanced with Bootstap styling.
 
 It consists of one page. All components are designed to be responsive on any screensize.
