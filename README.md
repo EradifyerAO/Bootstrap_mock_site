@@ -1,5 +1,5 @@
 
-<img src="Bootstrap_mock_site/Images/large_screen.png" width="425"/> <img src="Bootstrap_mock_site/Images/Small_screen.png" width="125"/>
+<img src="Images/large_screen.png" width="425"/> <img src="Images/Small_screen.png" width="125"/>
 
 This is a mock site exhibiting html enhanced with Bootstrap styling.
 
