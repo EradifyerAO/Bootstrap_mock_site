@@ -1,5 +1,5 @@
 
-![ Large screen](Bootstrap_mock_site/Images/Screenshot from 2025-08-15 17-51-58.png) ![ Small screen](Bootstrap_mock_site/Images/Screenshot from 2025-08-15 17-50-23.png)
+<img src="Bootstrap_mock_site/Images/large_screen.png" width="425"/> <img src="Bootstrap_mock_site/Images/Small_screen.png" width="125"/>
 
 This is a mock site exhibiting html enhanced with Bootstap styling.
 
