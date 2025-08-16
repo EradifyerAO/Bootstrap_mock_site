@@ -1,7 +1,7 @@
 
 <img src="Bootstrap_mock_site/Images/large_screen.png" width="425"/> <img src="Bootstrap_mock_site/Images/Small_screen.png" width="125"/>
 
-This is a mock site exhibiting html enhanced with Bootstap styling.
+This is a mock site exhibiting html enhanced with Bootstrap styling.
 
 It consists of one page. All components are designed to be responsive on any screensize.
 
