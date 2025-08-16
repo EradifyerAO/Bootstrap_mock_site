@@ -1,4 +1,5 @@
-[Bootstrap_mock_site/Home.html]
+
+![ Large screen](Bootstrap_mock_site/Images/Screenshot from 2025-08-15 17-51-58.png) ![ Small screen](Bootstrap_mock_site/Images/Screenshot from 2025-08-15 17-50-23.png)
 
 This is a mock site exhibiting html enhanced with Bootstap styling.
 
