@@ -1,4 +1,4 @@
-<a>Bootstrap_mock_site/Home.html</a>
+[Bootstrap_mock_site/Home.html]
 
 This is a mock site exhibiting html enhanced with Bootstap styling.
 
