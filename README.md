@@ -5,6 +5,14 @@ This is a mock site exhibiting html enhanced with Bootstrap styling.
 
 It consists of one page. All components are designed to be responsive on any screensize.
 
+   <ol> <b>Outline</b>
+      <li>Navbar</li>
+      <li>Registration Form </li>
+      <li>Table </li>
+      <li>Images </li>
+      <li>Buttons </li>
+    </ol>
+
 1. Navbar
     The Navbar consists of three links:
         a. Home
